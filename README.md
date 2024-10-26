@@ -37,17 +37,9 @@ This project aims to analyze customer satisfaction data to identify key areas fo
 -> **Provide recommendations** to improve customer satisfaction.
 -> **Suggest strategies** for targeted marketing and customer retention.
 
+## For more details:
+Checkout my **LinkedIn** profile to checkout the detailed analysis of the project.
+https://www.linkedin.com/in/swati-badola-b28a2722a/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Happy Coding!
