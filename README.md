@@ -9,20 +9,26 @@ This project aims to analyze customer satisfaction data to identify key areas fo
 
 ## Data and Tools
 • **Dataset**: E-commerce dataset containing CustomerID, customer demographics, Purchase behavior, and satisfaction ratings.
+
 • **Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Data Exploration and Cleaning
 • **Data Loading**: Import the dataset using Pandas.
+
 • **Data Cleaning**: Handling missing values, and inconsistencies in the data.
+
 • **Exploratory Data Analysis (EDA)**: Visualizing data distributions, correlation, and trends.
 
 ## Customer Segmentation:
 • **RFM Analysis**: Segmenting customers based on Recency, Frequency, and Monetary value.
+
 • **Demographic Analysis**: Analyzing customer segments based on age, gender, and location.
 
 ## Customer Satisfaction Analysis
 • **NPS Calculation**: Determine customer loyalty and satisfaction using NPS.
+
 • **Identifying Dissatisfied Customers**: Analyze customer feedback and ratings to identify areas of concern.
+
 • **Root Cause**: Investigate the underlying reasons for customer dissatisfaction.
 
 ![WhatsApp Image 2024-10-25 at 14 15 12_6d2f9c38](https://github.com/user-attachments/assets/952388d6-f8e9-4be8-9a95-9533a955c727)
@@ -31,15 +37,15 @@ This project aims to analyze customer satisfaction data to identify key areas fo
 
 ## Visualizations:
 • **Created visualizations** to communicate insights effectively.
+
 • The key findings are illustrated using **charts and graphs**.
 
 ## Actionable Insights:
 • **Provide recommendations** to improve customer satisfaction.
+
 • **Suggest strategies** for targeted marketing and customer retention.
 
-## For more details:
-Checkout my **LinkedIn** profile to checkout the detailed analysis of the project.
-https://www.linkedin.com/in/swati-badola-b28a2722a/
-
+## 📩 Connect with Me
+🔗 [LinkedIn](https://www.linkedin.com/in/swati-badola-b28a2722a/)
 
 #### Happy Coding!
